@@ -22,7 +22,7 @@ const Header = () => {
             <div className="header__cta">
                <ul className="header__cta">
                   <li>
-                     <a href=".">MOVIESs</a>
+                     <a href=".">MOVIES</a>
                   </li>
                </ul>
             </div>
