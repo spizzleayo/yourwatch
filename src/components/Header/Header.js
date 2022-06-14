@@ -17,7 +17,7 @@ const Header = () => {
       <header className="header">
          <div className="header__container container">
             <a href="." className="header__logo">
-               <span>D</span>-MOVIE
+               yourwatch
             </a>
             <div className="header__cta">
                <ul className="header__cta">

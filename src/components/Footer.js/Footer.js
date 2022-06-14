@@ -6,7 +6,7 @@ const Footer = () => {
       <footer className="footer">
          <div className="footer__container container">
             <Link to="/" className="footer__logo">
-               D-MOVIE
+               yourwatch
             </Link>
 
             <nav className="footer__nav">
@@ -40,10 +40,10 @@ const Footer = () => {
                </ul>
                <ul className="footer__nav__list">
                   <li className="footer__nav__item">
-                     <a href=".">You must watch</a>
+                     <a href=".">Must Watch</a>
                   </li>
                   <li className="footer__nav__item">
-                     <a href=".">Recent release</a>
+                     <a href=".">Newly Released</a>
                   </li>
                </ul>
             </nav>
