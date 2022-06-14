@@ -17,15 +17,12 @@ const Header = () => {
       <header className="header">
          <div className="header__container container">
             <a href="." className="header__logo">
-               yourwatch
+               YourWatch
             </a>
             <div className="header__cta">
                <ul className="header__cta">
                   <li>
-                     <a href=".">Movie</a>
-                  </li>
-                  <li>
-                     <a href=".">TV Shows</a>
+                     <a href=".">MOVIESs</a>
                   </li>
                </ul>
             </div>

@@ -6,7 +6,7 @@ const Footer = () => {
       <footer className="footer">
          <div className="footer__container container">
             <Link to="/" className="footer__logo">
-               yourwatch
+               YourWatch
             </Link>
 
             <nav className="footer__nav">
